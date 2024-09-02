@@ -1,0 +1,25 @@
+{
+  "name": "mini-app-template-portal",
+  "version": "1.5.0",
+  "main": "index.mjs",
+  "bin": {
+    "create-mini-app": "./index.mjs"
+  },
+  "dependencies": {
+    "inquirer": "^9.0.0"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mini-app",
+    "template"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "Template portal for mini app",
+  "publishConfig": {
+    "access": "public"
+  }
+}
