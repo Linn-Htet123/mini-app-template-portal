@@ -32,10 +32,10 @@ async function init() {
       repoUrl = "https://github.com/Linn-Htet123/mini-app-template-react.git";
       break;
     case "Vue":
-      repoUrl = "https://github.com/your-username/vue-template.git";
+      repoUrl = "https://github.com/Linn-Htet123/mini-app-template-vue.git";
       break;
     case "Vanilla JS":
-      repoUrl = "https://github.com/your-username/vanilla-js-template.git";
+      repoUrl = "https://github.com/pyaesworkspace/miniapp_html_template.git";
       break;
   }
 

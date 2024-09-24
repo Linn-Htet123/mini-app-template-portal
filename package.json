@@ -1,6 +1,6 @@
 {
   "name": "mini-app-template-portal",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "main": "index.mjs",
   "bin": {
     "create-mini-app": "./index.mjs"
@@ -16,7 +16,7 @@
     "mini-app",
     "template"
   ],
-  "author": "",
+  "author": "Thar Lin Htet",
   "license": "ISC",
   "description": "Template portal for mini app",
   "publishConfig": {
